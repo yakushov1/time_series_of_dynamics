@@ -32,11 +32,12 @@
 #### `numbers` 
 Содержит файлы: <br /> 
 `proportion_graph.png` - структура доминирования (доля вида в сообществе) по берегам. 
+![](https://raw.githubusercontent.com/yakushov1/time_series_of_dynamics/refs/heads/main/images/numbers/proportion_graph.png)
 <br /> 
 `rodent_average_wavelet_and_numbers.png` - численность грызунов на разных берегах (секция B)
 и осредненные кросс-вейвлеты для XX (секция A) и XXI века (секция C). <br /> 
 `shrew_average_wavelet_and_numbers.png` - то же, но для землероек. 
-![Пример график](https://raw.githubusercontent.com/yakushov1/time_series_of_dynamics/refs/heads/main/images/numbers/rodent_average_wavelet_and_numbers.png)
+![Пример графика](https://raw.githubusercontent.com/yakushov1/time_series_of_dynamics/refs/heads/main/images/numbers/rodent_average_wavelet_and_numbers.png)
 #### `spectrograms` 
 Разбит на подкаталоги, соответствующие временным промежуткам, 
 к которым относятся проанализированные временные ряды. 
